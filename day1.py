@@ -280,9 +280,4 @@ age="18"
 # U.login()
 
     
-
-
 # module is nothing but python file. it consist of functions and variables(array,object and dictionries )
-
-
-
